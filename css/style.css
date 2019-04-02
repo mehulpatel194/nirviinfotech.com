@@ -1,0 +1,14 @@
+
+@import url('https://fonts.googleapis.com/css?family=Merriweather|Satisfy');
+.header {
+    display: table;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    background: url(../img/bg.jpg) no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+	overflow: hidden;
+}
